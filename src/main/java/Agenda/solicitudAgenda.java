@@ -7,6 +7,6 @@ public class solicitudAgenda {
 
     public static void main(String[] args ){
         SpringApplication.run(solicitudAgenda.class, args);
-        
+
     }
 }
